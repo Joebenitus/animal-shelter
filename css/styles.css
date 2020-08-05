@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(74, 74, 124);
+}
+
+.main-img {
+  width: 40%;
+}
+
+.dog {
+  text-align: center;
+  width:300px;
+  float: left;
+
+}
