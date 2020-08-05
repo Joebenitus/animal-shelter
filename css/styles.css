@@ -2,13 +2,36 @@ body {
   background-color: rgb(74, 74, 124);
 }
 
+body h1 {
+  text-align: center;
+}
+
+body h3 {
+  text-align: center;
+}
+
+.dog img {
+  width: 60%;
+  height: auto;
+}
+
 .main-img {
+  margin: auto;
   width: 40%;
+  height:auto;
+  display: block;
 }
 
 .dog {
   text-align: center;
   width:300px;
   float: left;
-
+  background-color: steelblue;
+  margin: 20px;
+  padding: 10px;
 }
+
+.dog p {
+  text-align: left;
+}
+
